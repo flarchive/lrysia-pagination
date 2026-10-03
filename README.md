@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of lrysia/pagination.** Not for installation: use [Packagist](https://packagist.org/packages/lrysia/pagination) or the [upstream repository](https://github.com/lrysia/flarum-pagination).
 
-**0** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/lrysia-pagination/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.2`
+**3** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/lrysia-pagination/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-02-19 | `^1.2` | [Browse](https://github.com/flarchive/lrysia-pagination/tree/archive/v1.0.0) |
+| `1.1.0` | 2023-02-23 | `^1.2` | [Browse](https://github.com/flarchive/lrysia-pagination/tree/archive/v1.1.0) |
+| `1.2.0` | 2023-02-23 | `^1.2` | [Browse](https://github.com/flarchive/lrysia-pagination/tree/archive/v1.2.0) |
 
 Catalog entry: [packages/lrysia-pagination.json](https://github.com/flarchive/archive-index/blob/main/packages/lrysia-pagination.json)
 
